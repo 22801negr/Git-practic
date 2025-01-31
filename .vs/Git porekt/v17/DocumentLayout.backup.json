@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Git porekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C1B2CE-9527-41EA-80AA-AA3449811CCA}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{08C1B2CE-9527-41EA-80AA-AA3449811CCA}|D:\\git\\Git\\git-bash.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2957B5-1355-4B1E-B893-4EBC2D2A893B}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{CD2957B5-1355-4B1E-B893-4EBC2D2A893B}|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Git porekt\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CD2957B5-1355-4B1E-B893-4EBC2D2A893B}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{CD2957B5-1355-4B1E-B893-4EBC2D2A893B}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8EFDC6-3EF2-40CC-9614-0CAEE2F70E29}|Git porekt\\Git porekt.csproj|d:\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\git porekt\\git porekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8EFDC6-3EF2-40CC-9614-0CAEE2F70E29}|Git porekt\\Git porekt.csproj|solutionrelative:git porekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "git-bash.exe",
+              "DocumentMoniker": "D:\\git\\Git\\git-bash.exe",
+              "RelativeDocumentMoniker": "..\\..\\git\\Git\\git-bash.exe",
+              "ToolTip": "D:\\git\\Git\\git-bash.exe",
+              "RelativeToolTip": "..\\..\\git\\Git\\git-bash.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2025-01-30T21:04:31.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Git porekt\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Git porekt\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T21:03:53.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Git porekt\\Git porekt\\Program.cs",
+              "RelativeDocumentMoniker": "Git porekt\\Program.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Git porekt\\Git porekt\\Program.cs",
+              "RelativeToolTip": "Git porekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:32:27.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
